@@ -13,7 +13,7 @@ We will use this repository to practice the following Git Operations:
 
 ```bash
 # 1. Get the repo, using HTTPS
-git clone 
+git clone https://github.com/madhura-codes/data_jungle_100_nc.git
 
 # 2. Create your branch
 cd data_jungle_100_nc
